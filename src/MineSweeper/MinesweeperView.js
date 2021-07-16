@@ -217,7 +217,7 @@ function MineSweeperView({
               <div className="mine__drop-down__check" />
               <a
                 className="mine__drop-down__text"
-                href="https://github.com/lizzzyu"
+                href="https://github.com/LizzzYu/minesweeper/"
               >
                 Github
               </a>
