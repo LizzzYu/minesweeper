@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/minesweeper/static/css/main.d94498ad.chunk.css",
+    "main.js": "/minesweeper/static/js/main.bccdd1eb.chunk.js",
+    "main.js.map": "/minesweeper/static/js/main.bccdd1eb.chunk.js.map",
+    "runtime-main.js": "/minesweeper/static/js/runtime-main.ff416299.js",
+    "runtime-main.js.map": "/minesweeper/static/js/runtime-main.ff416299.js.map",
+    "static/js/2.7dc34e95.chunk.js": "/minesweeper/static/js/2.7dc34e95.chunk.js",
+    "static/js/2.7dc34e95.chunk.js.map": "/minesweeper/static/js/2.7dc34e95.chunk.js.map",
+    "index.html": "/minesweeper/index.html",
+    "static/css/main.d94498ad.chunk.css.map": "/minesweeper/static/css/main.d94498ad.chunk.css.map",
+    "static/js/2.7dc34e95.chunk.js.LICENSE.txt": "/minesweeper/static/js/2.7dc34e95.chunk.js.LICENSE.txt",
+    "static/media/flag.96cbdcf7.png": "/minesweeper/static/media/flag.96cbdcf7.png",
+    "static/media/mine-ceil.3260f219.png": "/minesweeper/static/media/mine-ceil.3260f219.png",
+    "static/media/mine-death.f6c49a88.png": "/minesweeper/static/media/mine-death.f6c49a88.png",
+    "static/media/misflagged.2cc3cc08.png": "/minesweeper/static/media/misflagged.2cc3cc08.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff416299.js",
+    "static/js/2.7dc34e95.chunk.js",
+    "static/css/main.d94498ad.chunk.css",
+    "static/js/main.bccdd1eb.chunk.js"
+  ]
+}
